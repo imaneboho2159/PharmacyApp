@@ -1,4 +1,4 @@
-package com.pharmacy.entity;
+package com.pharmacyapp.model;
 
 
 import jakarta.persistence.*;
