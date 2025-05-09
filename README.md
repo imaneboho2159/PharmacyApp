@@ -16,5 +16,5 @@ The API allows the pharmacy owner to:
 🛠 Tech Stack
 -> Spring Boot
 -> Spring Data JPA & Hibernate
--> MySQL or PostgreSQL
+-> MySQL 
 -> Postman (for API testing)
